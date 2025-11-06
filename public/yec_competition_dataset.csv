@@ -1,0 +1,159 @@
+item_id,item_name,item_description,current_price,store,category_tags,image_url,price_date
+1001,Samsung 55-inch 4K Smart TV,55-inch Crystal UHD Smart TV with HDR,770.41,Walmart,"electronics,entertainment,home",https://example.com/samsung-55-inch-4k-smart-tv.jpg,2025-07-24
+11001,Samsung 55-inch 4K Smart TV,55-inch Crystal UHD Smart TV with HDR,799.53,Loblaws,"electronics,entertainment,home",https://example.com/samsung-55-inch-4k-smart-tv.jpg,2025-07-24
+21001,Samsung 55-inch 4K Smart TV,55-inch Crystal UHD Smart TV with HDR,707.09,Costco,"electronics,entertainment,home",https://example.com/samsung-55-inch-4k-smart-tv.jpg,2025-07-24
+1002,iPhone 14 Pro,Apple iPhone 14 Pro 128GB,1228.11,Walmart,"electronics,phones,communication",https://example.com/iphone-14-pro.jpg,2025-07-24
+11002,iPhone 14 Pro,Apple iPhone 14 Pro 128GB,1268.27,Loblaws,"electronics,phones,communication",https://example.com/iphone-14-pro.jpg,2025-07-24
+21002,iPhone 14 Pro,Apple iPhone 14 Pro 128GB,1138.99,Costco,"electronics,phones,communication",https://example.com/iphone-14-pro.jpg,2025-07-24
+1003,MacBook Air M2,13-inch MacBook Air with M2 chip,1385.33,Walmart,"electronics,computers,productivity",https://example.com/macbook-air-m2.jpg,2025-07-24
+11003,MacBook Air M2,13-inch MacBook Air with M2 chip,1516.87,Loblaws,"electronics,computers,productivity",https://example.com/macbook-air-m2.jpg,2025-07-24
+21003,MacBook Air M2,13-inch MacBook Air with M2 chip,1317.09,Costco,"electronics,computers,productivity",https://example.com/macbook-air-m2.jpg,2025-07-24
+1004,iPad Air,iPad Air 64GB WiFi,644.65,Walmart,"electronics,tablets,entertainment",https://example.com/ipad-air.jpg,2025-07-24
+11004,iPad Air,iPad Air 64GB WiFi,706.59,Loblaws,"electronics,tablets,entertainment",https://example.com/ipad-air.jpg,2025-07-24
+21004,iPad Air,iPad Air 64GB WiFi,633.21,Costco,"electronics,tablets,entertainment",https://example.com/ipad-air.jpg,2025-07-24
+1005,Sony WH-1000XM5,Noise Cancelling Wireless Headphones,425.86,Walmart,"electronics,audio,accessories",https://example.com/sony-wh-1000xm5.jpg,2025-07-24
+11005,Sony WH-1000XM5,Noise Cancelling Wireless Headphones,455.73,Loblaws,"electronics,audio,accessories",https://example.com/sony-wh-1000xm5.jpg,2025-07-24
+21005,Sony WH-1000XM5,Noise Cancelling Wireless Headphones,419.46,Costco,"electronics,audio,accessories",https://example.com/sony-wh-1000xm5.jpg,2025-07-24
+1006,Nintendo Switch OLED,Gaming console with OLED screen,372.07,Walmart,"electronics,gaming,entertainment",https://example.com/nintendo-switch-oled.jpg,2025-07-24
+11006,Nintendo Switch OLED,Gaming console with OLED screen,392.43,Loblaws,"electronics,gaming,entertainment",https://example.com/nintendo-switch-oled.jpg,2025-07-24
+21006,Nintendo Switch OLED,Gaming console with OLED screen,369.86,Costco,"electronics,gaming,entertainment",https://example.com/nintendo-switch-oled.jpg,2025-07-24
+1007,Apple Watch Series 8,GPS smartwatch 41mm,438.88,Walmart,"electronics,wearables,fitness",https://example.com/apple-watch-series-8.jpg,2025-07-24
+11007,Apple Watch Series 8,GPS smartwatch 41mm,454.66,Loblaws,"electronics,wearables,fitness",https://example.com/apple-watch-series-8.jpg,2025-07-24
+21007,Apple Watch Series 8,GPS smartwatch 41mm,425.11,Costco,"electronics,wearables,fitness",https://example.com/apple-watch-series-8.jpg,2025-07-24
+1008,Bose Soundbar 700,Premium soundbar with Alexa,849.65,Walmart,"electronics,audio,home",https://example.com/bose-soundbar-700.jpg,2025-07-24
+11008,Bose Soundbar 700,Premium soundbar with Alexa,925.5,Loblaws,"electronics,audio,home",https://example.com/bose-soundbar-700.jpg,2025-07-24
+21008,Bose Soundbar 700,Premium soundbar with Alexa,807.77,Costco,"electronics,audio,home",https://example.com/bose-soundbar-700.jpg,2025-07-24
+2001,Milk 2% (4L),Fresh 2% milk in 4-liter container,6.83,Walmart,"groceries,dairy,essentials",https://example.com/milk-2%-(4l).jpg,2025-07-24
+12002,Greek Yogurt (750g),Plain Greek yogurt,8.28,Loblaws,"groceries,dairy,healthy",https://example.com/greek-yogurt-(750g).jpg,2025-07-24
+22002,Greek Yogurt (750g),Plain Greek yogurt,7.46,Costco,"groceries,dairy,healthy",https://example.com/greek-yogurt-(750g).jpg,2025-07-24
+2003,Cheese Block (500g),Medium cheddar cheese block,8.95,Walmart,"groceries,dairy,protein",https://example.com/cheese-block-(500g).jpg,2022-01-15
+2003,Cheese Block (500g),Medium cheddar cheese block,10.48,Walmart,"groceries,dairy,protein",https://example.com/cheese-block-(500g).jpg,2025-07-24
+12003,Cheese Block (500g),Medium cheddar cheese block,9.35,Loblaws,"groceries,dairy,protein",https://example.com/cheese-block-(500g).jpg,2022-01-15
+22003,Cheese Block (500g),Medium cheddar cheese block,9.53,Costco,"groceries,dairy,protein",https://example.com/cheese-block-(500g).jpg,2025-07-24
+2004,Butter (454g),Salted butter,6.39,Walmart,"groceries,dairy,baking",https://example.com/butter-(454g).jpg,2025-07-24
+12004,Butter (454g),Salted butter,6.68,Loblaws,"groceries,dairy,baking",https://example.com/butter-(454g).jpg,2025-07-24
+22004,Butter (454g),Salted butter,5.84,Costco,"groceries,dairy,baking",https://example.com/butter-(454g).jpg,2025-07-24
+2005,Eggs (18 pack),Large eggs 18 count,6.65,Walmart,"groceries,dairy,protein",https://example.com/eggs-(18-pack).jpg,2025-07-24
+12005,Eggs (18 pack),Large eggs 18 count,7.07,Loblaws,"groceries,dairy,protein",https://example.com/eggs-(18-pack).jpg,2025-07-24
+22005,Eggs (18 pack),Large eggs 18 count,6.53,Costco,"groceries,dairy,protein",https://example.com/eggs-(18-pack).jpg,2025-07-24
+3001,White Bread Loaf,Classic white bread loaf 675g,3.5,Walmart,"groceries,bakery,essentials",https://example.com/white-bread-loaf.jpg,2025-07-24
+13001,White Bread Loaf,Classic white bread loaf 675g,3.63,Loblaws,"groceries,bakery,essentials",https://example.com/white-bread-loaf.jpg,2025-07-24
+23001,White Bread Loaf,Classic white bread loaf 675g,3.32,Costco,"groceries,bakery,essentials",https://example.com/white-bread-loaf.jpg,2025-07-24
+3002,Whole Wheat Bread,Whole wheat bread loaf 675g,3.92,Walmart,"groceries,bakery,healthy",https://example.com/whole-wheat-bread.jpg,2025-07-24
+13002,Whole Wheat Bread,Whole wheat bread loaf 675g,4.14,Loblaws,"groceries,bakery,healthy",https://example.com/whole-wheat-bread.jpg,2025-07-24
+23002,Whole Wheat Bread,Whole wheat bread loaf 675g,3.84,Costco,"groceries,bakery,healthy",https://example.com/whole-wheat-bread.jpg,2025-07-24
+3003,Bagels (6 pack),Plain bagels 6 count,5.54,Walmart,"groceries,bakery,breakfast",https://example.com/bagels-(6-pack).jpg,2025-07-24
+13003,Bagels (6 pack),Plain bagels 6 count,5.89,Loblaws,"groceries,bakery,breakfast",https://example.com/bagels-(6-pack).jpg,2025-07-24
+23003,Bagels (6 pack),Plain bagels 6 count,5.39,Costco,"groceries,bakery,breakfast",https://example.com/bagels-(6-pack).jpg,2025-07-24
+3004,Croissants (6 pack),Butter croissants 6 count,6.66,Walmart,"groceries,bakery,breakfast",https://example.com/croissants-(6-pack).jpg,2025-07-24
+13004,Croissants (6 pack),Butter croissants 6 count,7.12,Loblaws,"groceries,bakery,breakfast",https://example.com/croissants-(6-pack).jpg,2025-07-24
+23004,Croissants (6 pack),Butter croissants 6 count,6.5,Costco,"groceries,bakery,breakfast",https://example.com/croissants-(6-pack).jpg,2025-07-24
+4001,Ground Beef (1kg),Lean ground beef per kilogram,14.46,Walmart,"groceries,meat,protein",https://example.com/ground-beef-(1kg).jpg,2025-07-24
+14001,Ground Beef (1kg),Lean ground beef per kilogram,15.18,Loblaws,"groceries,meat,protein",https://example.com/ground-beef-(1kg).jpg,2025-07-24
+24001,Ground Beef (1kg),Lean ground beef per kilogram,13.68,Costco,"groceries,meat,protein",https://example.com/ground-beef-(1kg).jpg,2025-07-24
+4002,Chicken Breast (1kg),Boneless skinless chicken breast,15.93,Walmart,"groceries,meat,protein",https://example.com/chicken-breast-(1kg).jpg,2025-07-24
+14002,Chicken Breast (1kg),Boneless skinless chicken breast,16.36,Loblaws,"groceries,meat,protein",https://example.com/chicken-breast-(1kg).jpg,2025-07-24
+24002,Chicken Breast (1kg),Boneless skinless chicken breast,15.39,Costco,"groceries,meat,protein",https://example.com/chicken-breast-(1kg).jpg,2025-07-24
+4003,Pork Chops (1kg),Center cut pork chops,13.64,Walmart,"groceries,meat,protein",https://example.com/pork-chops-(1kg).jpg,2025-07-24
+14003,Pork Chops (1kg),Center cut pork chops,14.52,Loblaws,"groceries,meat,protein",https://example.com/pork-chops-(1kg).jpg,2025-07-24
+24003,Pork Chops (1kg),Center cut pork chops,13.34,Costco,"groceries,meat,protein",https://example.com/pork-chops-(1kg).jpg,2025-07-24
+4004,Salmon Fillet (1kg),Fresh Atlantic salmon,28.41,Walmart,"groceries,seafood,protein",https://example.com/salmon-fillet-(1kg).jpg,2025-07-24
+14004,Salmon Fillet (1kg),Fresh Atlantic salmon,30.28,Loblaws,"groceries,seafood,protein",https://example.com/salmon-fillet-(1kg).jpg,2025-07-24
+24004,Salmon Fillet (1kg),Fresh Atlantic salmon,26.26,Costco,"groceries,seafood,protein",https://example.com/salmon-fillet-(1kg).jpg,2025-07-24
+4005,Ground Turkey (1kg),Lean ground turkey,12.85,Walmart,"groceries,meat,protein",https://example.com/ground-turkey-(1kg).jpg,2025-07-24
+14005,Ground Turkey (1kg),Lean ground turkey,13.41,Loblaws,"groceries,meat,protein",https://example.com/ground-turkey-(1kg).jpg,2025-07-24
+24005,Ground Turkey (1kg),Lean ground turkey,11.9,Costco,"groceries,meat,protein",https://example.com/ground-turkey-(1kg).jpg,2025-07-24
+5001,Bananas (per lb),Fresh yellow bananas,0.62,Walmart,"groceries,produce,fruit",https://example.com/bananas-(per-lb).jpg,2025-07-24
+15001,Bananas (per lb),Fresh yellow bananas,0.64,Loblaws,"groceries,produce,fruit",https://example.com/bananas-(per-lb).jpg,2025-07-24
+25001,Bananas (per lb),Fresh yellow bananas,0.59,Costco,"groceries,produce,fruit",https://example.com/bananas-(per-lb).jpg,2025-07-24
+5002,Apples (per lb),Gala apples,2.11,Walmart,"groceries,produce,fruit",https://example.com/apples-(per-lb).jpg,2025-07-24
+15002,Apples (per lb),Gala apples,2.25,Loblaws,"groceries,produce,fruit",https://example.com/apples-(per-lb).jpg,2025-07-24
+25002,Apples (per lb),Gala apples,2.03,Costco,"groceries,produce,fruit",https://example.com/apples-(per-lb).jpg,2025-07-24
+5003,Tomatoes (per lb),Fresh tomatoes,3.16,Walmart,"groceries,produce,vegetables",https://example.com/tomatoes-(per-lb).jpg,2025-07-24
+15003,Tomatoes (per lb),Fresh tomatoes,3.37,Loblaws,"groceries,produce,vegetables",https://example.com/tomatoes-(per-lb).jpg,2025-07-24
+25003,Tomatoes (per lb),Fresh tomatoes,3.0,Costco,"groceries,produce,vegetables",https://example.com/tomatoes-(per-lb).jpg,2025-07-24
+5004,Lettuce Head,Iceberg lettuce,2.71,Walmart,"groceries,produce,vegetables",https://example.com/lettuce-head.jpg,2025-07-24
+15004,Lettuce Head,Iceberg lettuce,2.84,Loblaws,"groceries,produce,vegetables",https://example.com/lettuce-head.jpg,2025-07-24
+25004,Lettuce Head,Iceberg lettuce,2.44,Costco,"groceries,produce,vegetables",https://example.com/lettuce-head.jpg,2025-07-24
+5005,Potatoes (5lb bag),Russet potatoes 5lb,5.38,Walmart,"groceries,produce,vegetables",https://example.com/potatoes-(5lb-bag).jpg,2025-07-24
+15005,Potatoes (5lb bag),Russet potatoes 5lb,5.43,Loblaws,"groceries,produce,vegetables",https://example.com/potatoes-(5lb-bag).jpg,2025-07-24
+25005,Potatoes (5lb bag),Russet potatoes 5lb,5.13,Costco,"groceries,produce,vegetables",https://example.com/potatoes-(5lb-bag).jpg,2025-07-24
+5006,Carrots (2lb bag),Baby carrots 2lb,3.11,Walmart,"groceries,produce,vegetables",https://example.com/carrots-(2lb-bag).jpg,2025-07-24
+15006,Carrots (2lb bag),Baby carrots 2lb,3.42,Loblaws,"groceries,produce,vegetables",https://example.com/carrots-(2lb-bag).jpg,2025-07-24
+25006,Carrots (2lb bag),Baby carrots 2lb,3.03,Costco,"groceries,produce,vegetables",https://example.com/carrots-(2lb-bag).jpg,2025-07-24
+5007,Strawberries (1lb),Fresh strawberries,5.31,Walmart,"groceries,produce,fruit",https://example.com/strawberries-(1lb).jpg,2025-07-24
+15007,Strawberries (1lb),Fresh strawberries,5.48,Loblaws,"groceries,produce,fruit",https://example.com/strawberries-(1lb).jpg,2025-07-24
+25007,Strawberries (1lb),Fresh strawberries,5.06,Costco,"groceries,produce,fruit",https://example.com/strawberries-(1lb).jpg,2025-07-24
+6001,Tide Pods (81 count),Tide Pods laundry detergent pacs,28.7,Walmart,"household,cleaning,laundry",https://example.com/tide-pods-(81-count).jpg,2025-07-24
+16001,Tide Pods (81 count),Tide Pods laundry detergent pacs,29.89,Loblaws,"household,cleaning,laundry",https://example.com/tide-pods-(81-count).jpg,2025-07-24
+26001,Tide Pods (81 count),Tide Pods laundry detergent pacs,27.67,Costco,"household,cleaning,laundry",https://example.com/tide-pods-(81-count).jpg,2025-07-24
+6002,Bounty Paper Towels (12 rolls),Select-A-Size paper towels,34.75,Walmart,"household,cleaning,paper",https://example.com/bounty-paper-towels-(12-rolls).jpg,2025-07-24
+16002,Bounty Paper Towels (12 rolls),Select-A-Size paper towels,36.09,Loblaws,"household,cleaning,paper",https://example.com/bounty-paper-towels-(12-rolls).jpg,2025-07-24
+26002,Bounty Paper Towels (12 rolls),Select-A-Size paper towels,32.43,Costco,"household,cleaning,paper",https://example.com/bounty-paper-towels-(12-rolls).jpg,2025-07-24
+6003,Charmin Toilet Paper (24 rolls),Ultra Soft toilet paper,32.79,Walmart,"household,bathroom,paper",https://example.com/charmin-toilet-paper-(24-rolls).jpg,2025-07-24
+16003,Charmin Toilet Paper (24 rolls),Ultra Soft toilet paper,34.01,Loblaws,"household,bathroom,paper",https://example.com/charmin-toilet-paper-(24-rolls).jpg,2025-07-24
+26003,Charmin Toilet Paper (24 rolls),Ultra Soft toilet paper,29.46,Costco,"household,bathroom,paper",https://example.com/charmin-toilet-paper-(24-rolls).jpg,2025-07-24
+6004,Dawn Dish Soap (1.12L),Ultra dishwashing liquid,6.66,Walmart,"household,cleaning,kitchen",https://example.com/dawn-dish-soap-(1.12l).jpg,2025-07-24
+16004,Dawn Dish Soap (1.12L),Ultra dishwashing liquid,7.11,Loblaws,"household,cleaning,kitchen",https://example.com/dawn-dish-soap-(1.12l).jpg,2025-07-24
+26004,Dawn Dish Soap (1.12L),Ultra dishwashing liquid,6.59,Costco,"household,cleaning,kitchen",https://example.com/dawn-dish-soap-(1.12l).jpg,2025-07-24
+6005,Lysol Disinfectant Spray,Disinfectant spray 539g,9.27,Walmart,"household,cleaning,disinfectant",https://example.com/lysol-disinfectant-spray.jpg,2025-07-24
+16005,Lysol Disinfectant Spray,Disinfectant spray 539g,9.3,Loblaws,"household,cleaning,disinfectant",https://example.com/lysol-disinfectant-spray.jpg,2025-07-24
+26005,Lysol Disinfectant Spray,Disinfectant spray 539g,8.51,Costco,"household,cleaning,disinfectant",https://example.com/lysol-disinfectant-spray.jpg,2025-07-24
+6006,Glad Kitchen Bags (40 count),13 gallon kitchen bags,14.55,Walmart,"household,kitchen,waste",https://example.com/glad-kitchen-bags-(40-count).jpg,2025-07-24
+16006,Glad Kitchen Bags (40 count),13 gallon kitchen bags,15.88,Loblaws,"household,kitchen,waste",https://example.com/glad-kitchen-bags-(40-count).jpg,2025-07-24
+26006,Glad Kitchen Bags (40 count),13 gallon kitchen bags,13.83,Costco,"household,kitchen,waste",https://example.com/glad-kitchen-bags-(40-count).jpg,2025-07-24
+7001,Dove Body Wash (750ml),Deep Moisture body wash,8.03,Walmart,"personal-care,hygiene,bath",https://example.com/dove-body-wash-(750ml).jpg,2025-07-24
+17001,Dove Body Wash (750ml),Deep Moisture body wash,8.26,Loblaws,"personal-care,hygiene,bath",https://example.com/dove-body-wash-(750ml).jpg,2025-07-24
+27001,Dove Body Wash (750ml),Deep Moisture body wash,7.6,Costco,"personal-care,hygiene,bath",https://example.com/dove-body-wash-(750ml).jpg,2025-07-24
+7002,Head & Shoulders Shampoo,Anti-dandruff shampoo 700ml,10.11,Walmart,"personal-care,hair,hygiene",https://example.com/head-&-shoulders-shampoo.jpg,2025-07-24
+17002,Head & Shoulders Shampoo,Anti-dandruff shampoo 700ml,10.6,Loblaws,"personal-care,hair,hygiene",https://example.com/head-&-shoulders-shampoo.jpg,2025-07-24
+27002,Head & Shoulders Shampoo,Anti-dandruff shampoo 700ml,9.94,Costco,"personal-care,hair,hygiene",https://example.com/head-&-shoulders-shampoo.jpg,2025-07-24
+7003,Crest Toothpaste (125ml),Complete Multi-Benefit toothpaste,4.52,Walmart,"personal-care,dental,hygiene",https://example.com/crest-toothpaste-(125ml).jpg,2025-07-24
+17003,Crest Toothpaste (125ml),Complete Multi-Benefit toothpaste,4.89,Loblaws,"personal-care,dental,hygiene",https://example.com/crest-toothpaste-(125ml).jpg,2025-07-24
+27003,Crest Toothpaste (125ml),Complete Multi-Benefit toothpaste,4.3,Costco,"personal-care,dental,hygiene",https://example.com/crest-toothpaste-(125ml).jpg,2025-07-24
+7004,Gillette Razor Blades (8 pack),Fusion5 razor blade refills,38.35,Walmart,"personal-care,shaving,hygiene",https://example.com/gillette-razor-blades-(8-pack).jpg,2025-07-24
+17004,Gillette Razor Blades (8 pack),Fusion5 razor blade refills,39.88,Loblaws,"personal-care,shaving,hygiene",https://example.com/gillette-razor-blades-(8-pack).jpg,2025-07-24
+27004,Gillette Razor Blades (8 pack),Fusion5 razor blade refills,34.98,Costco,"personal-care,shaving,hygiene",https://example.com/gillette-razor-blades-(8-pack).jpg,2025-07-24
+7005,Nivea Body Lotion (625ml),Intensive moisture body lotion,11.07,Walmart,"personal-care,skincare,moisturizer",https://example.com/nivea-body-lotion-(625ml).jpg,2025-07-24
+17005,Nivea Body Lotion (625ml),Intensive moisture body lotion,12.23,Loblaws,"personal-care,skincare,moisturizer",https://example.com/nivea-body-lotion-(625ml).jpg,2025-07-24
+27005,Nivea Body Lotion (625ml),Intensive moisture body lotion,11.04,Costco,"personal-care,skincare,moisturizer",https://example.com/nivea-body-lotion-(625ml).jpg,2025-07-24
+8001,Pampers Size 3 (128 count),Swaddlers disposable diapers,51.64,Walmart,"baby,diapers,essentials",https://example.com/pampers-size-3-(128-count).jpg,2025-07-24
+18001,Pampers Size 3 (128 count),Swaddlers disposable diapers,52.99,Loblaws,"baby,diapers,essentials",https://example.com/pampers-size-3-(128-count).jpg,2025-07-24
+28001,Pampers Size 3 (128 count),Swaddlers disposable diapers,49.25,Costco,"baby,diapers,essentials",https://example.com/pampers-size-3-(128-count).jpg,2025-07-24
+8002,Huggies Size 4 (120 count),Little Snugglers diapers,49.45,Walmart,"baby,diapers,essentials",https://example.com/huggies-size-4-(120-count).jpg,2025-07-24
+18002,Huggies Size 4 (120 count),Little Snugglers diapers,50.68,Loblaws,"baby,diapers,essentials",https://example.com/huggies-size-4-(120-count).jpg,2025-07-24
+28002,Huggies Size 4 (120 count),Little Snugglers diapers,45.24,Costco,"baby,diapers,essentials",https://example.com/huggies-size-4-(120-count).jpg,2025-07-24
+8003,Enfamil Formula (900g),Infant formula powder,44.96,Walmart,"baby,formula,nutrition",https://example.com/enfamil-formula-(900g).jpg,2025-07-24
+18003,Enfamil Formula (900g),Infant formula powder,46.68,Loblaws,"baby,formula,nutrition",https://example.com/enfamil-formula-(900g).jpg,2025-07-24
+28003,Enfamil Formula (900g),Infant formula powder,42.51,Costco,"baby,formula,nutrition",https://example.com/enfamil-formula-(900g).jpg,2025-07-24
+8004,Baby Wipes (800 count),Sensitive baby wipes,28.09,Walmart,"baby,wipes,hygiene",https://example.com/baby-wipes-(800-count).jpg,2025-07-24
+18004,Baby Wipes (800 count),Sensitive baby wipes,29.42,Loblaws,"baby,wipes,hygiene",https://example.com/baby-wipes-(800-count).jpg,2025-07-24
+28004,Baby Wipes (800 count),Sensitive baby wipes,26.92,Costco,"baby,wipes,hygiene",https://example.com/baby-wipes-(800-count).jpg,2025-07-24
+8005,Johnson's Baby Shampoo,No tears formula 500ml,9.23,Walmart,"baby,bath,hygiene",https://example.com/johnson's-baby-shampoo.jpg,2025-06-19
+8005,Johnson's Baby Shampoo,No tears formula 500ml,8.88,Walmart,"baby,bath,hygiene",https://example.com/johnson's-baby-shampoo.jpg,2025-07-24
+18005,Johnson's Baby Shampoo,No tears formula 500ml,9.63,Loblaws,"baby,bath,hygiene",https://example.com/johnson's-baby-shampoo.jpg,2025-07-24
+28005,Johnson's Baby Shampoo,No tears formula 500ml,8.6,Costco,"baby,bath,hygiene",https://example.com/johnson's-baby-shampoo.jpg,2025-07-24
+9001,Ben & Jerry's Ice Cream,Cookie Dough ice cream 500ml,8.08,Walmart,"groceries,frozen,dessert",https://example.com/ben-&-jerry's-ice-cream.jpg,2025-07-24
+19001,Ben & Jerry's Ice Cream,Cookie Dough ice cream 500ml,8.51,Loblaws,"groceries,frozen,dessert",https://example.com/ben-&-jerry's-ice-cream.jpg,2025-07-24
+29001,Ben & Jerry's Ice Cream,Cookie Dough ice cream 500ml,7.79,Costco,"groceries,frozen,dessert",https://example.com/ben-&-jerry's-ice-cream.jpg,2025-07-24
+9002,McCain French Fries (1kg),Straight cut french fries,4.52,Walmart,"groceries,frozen,sides",https://example.com/mccain-french-fries-(1kg).jpg,2025-07-24
+19002,McCain French Fries (1kg),Straight cut french fries,4.82,Loblaws,"groceries,frozen,sides",https://example.com/mccain-french-fries-(1kg).jpg,2025-07-24
+29002,McCain French Fries (1kg),Straight cut french fries,4.32,Costco,"groceries,frozen,sides",https://example.com/mccain-french-fries-(1kg).jpg,2025-07-24
+9003,Pizza Pockets (8 pack),Pepperoni pizza pockets,11.64,Walmart,"groceries,frozen,snacks",https://example.com/pizza-pockets-(8-pack).jpg,2025-07-24
+19003,Pizza Pockets (8 pack),Pepperoni pizza pockets,11.82,Loblaws,"groceries,frozen,snacks",https://example.com/pizza-pockets-(8-pack).jpg,2025-07-24
+29003,Pizza Pockets (8 pack),Pepperoni pizza pockets,10.79,Costco,"groceries,frozen,snacks",https://example.com/pizza-pockets-(8-pack).jpg,2025-07-24
+9004,Frozen Mixed Vegetables (750g),Mixed vegetable blend,4.03,Walmart,"groceries,frozen,vegetables",https://example.com/frozen-mixed-vegetables-(750g).jpg,2025-07-24
+19004,Frozen Mixed Vegetables (750g),Mixed vegetable blend,4.06,Loblaws,"groceries,frozen,vegetables",https://example.com/frozen-mixed-vegetables-(750g).jpg,2025-07-24
+29004,Frozen Mixed Vegetables (750g),Mixed vegetable blend,3.77,Costco,"groceries,frozen,vegetables",https://example.com/frozen-mixed-vegetables-(750g).jpg,2025-07-24
+10001,Coca-Cola (12 pack),355ml cans 12 pack,6.74,Walmart,"groceries,beverages,soda",https://example.com/coca-cola-(12-pack).jpg,2025-07-24
+20001,Coca-Cola (12 pack),355ml cans 12 pack,7.14,Loblaws,"groceries,beverages,soda",https://example.com/coca-cola-(12-pack).jpg,2025-07-24
+30001,Coca-Cola (12 pack),355ml cans 12 pack,6.45,Costco,"groceries,beverages,soda",https://example.com/coca-cola-(12-pack).jpg,2025-07-24
+10002,Orange Juice (1.75L),Pure orange juice,5.56,Walmart,"groceries,beverages,juice",https://example.com/orange-juice-(1.75l).jpg,2025-07-24
+20002,Orange Juice (1.75L),Pure orange juice,5.86,Loblaws,"groceries,beverages,juice",https://example.com/orange-juice-(1.75l).jpg,2025-07-24
+30002,Orange Juice (1.75L),Pure orange juice,5.42,Costco,"groceries,beverages,juice",https://example.com/orange-juice-(1.75l).jpg,2025-07-24
+10003,Coffee Beans (907g),Medium roast coffee beans,14.96,Walmart,"groceries,beverages,coffee",https://example.com/coffee-beans-(907g).jpg,2025-07-24
+20003,Coffee Beans (907g),Medium roast coffee beans,15.15,Loblaws,"groceries,beverages,coffee",https://example.com/coffee-beans-(907g).jpg,2025-07-24
+30003,Coffee Beans (907g),Medium roast coffee beans,14.28,Costco,"groceries,beverages,coffee",https://example.com/coffee-beans-(907g).jpg,2025-07-24
+10004,Tea Bags (100 count),Black tea bags,6.97,Walmart,"groceries,beverages,tea",https://example.com/tea-bags-(100-count).jpg,2025-07-24
+20004,Tea Bags (100 count),Black tea bags,7.21,Loblaws,"groceries,beverages,tea",https://example.com/tea-bags-(100-count).jpg,2025-07-24
+30004,Tea Bags (100 count),Black tea bags,6.43,Costco,"groceries,beverages,tea",https://example.com/tea-bags-(100-count).jpg,2025-07-24
